@@ -1,0 +1,24 @@
+{
+    "name": "web_lecture_2",
+    "version": "1.0.0",
+    "description": "test project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "eslint": "eslint",
+        "prettier": "prettier"
+    },
+    "keywords": [
+        "test",
+        "olga"
+    ],
+    "author": "Olga Gogoleva",
+    "license": "ISC",
+    "devDependencies": {
+        "@eslint/js": "^9.22.0",
+        "eslint": "^9.22.0",
+        "eslint-config-prettier": "^10.1.1",
+        "globals": "^16.0.0",
+        "prettier": "^3.5.3"
+    }
+}
